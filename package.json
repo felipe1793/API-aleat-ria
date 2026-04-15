@@ -1,0 +1,19 @@
+{
+  "name": "apigenerica",
+  "version": "1.0.0",
+  "description": "API criada para treino",
+  "license": "ISC",
+  "author": "Felipe de Santana",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
